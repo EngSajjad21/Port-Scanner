@@ -32,8 +32,8 @@ Designed to be a rapid reconnaissance utility for penetration testing, server au
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/python-port-scanner.git
-   cd python-port-scanner
+   git clone https://github.com/EngSajjad21/Port-Scanner.git
+   cd Port-Scanner
    ```
 
 2. **Install the required dependencies:**
